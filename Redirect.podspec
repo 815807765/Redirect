@@ -4,10 +4,8 @@ Pod::Spec.new do |spec|
 
   spec.name         = "Redirect"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of Redirect."
+  spec.summary      = "hahahhahahahahahahhahahatest"
 
-  spec.description  = <<-DESC
-                   DESC
 
   spec.homepage     = "https://github.com/815807765/Redirect.git"
   spec.license      = "MIT"
