@@ -15,6 +15,7 @@
 		4125596C22E6AA61000B7D3D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125596B22E6AA61000B7D3D /* main.m */; };
 		4125597622E6AA61000B7D3D /* RedirectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125597522E6AA61000B7D3D /* RedirectTests.m */; };
 		4125598122E6AA61000B7D3D /* RedirectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125598022E6AA61000B7D3D /* RedirectUITests.m */; };
+		4125599022E6AAEF000B7D3D /* Redirect.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125598F22E6AAEF000B7D3D /* Redirect.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		4125597C22E6AA61000B7D3D /* RedirectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RedirectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4125598022E6AA61000B7D3D /* RedirectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RedirectUITests.m; sourceTree = "<group>"; };
 		4125598222E6AA62000B7D3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4125598E22E6AAEF000B7D3D /* Redirect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Redirect.h; sourceTree = "<group>"; };
+		4125598F22E6AAEF000B7D3D /* Redirect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Redirect.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				4125596722E6AA61000B7D3D /* LaunchScreen.storyboard */,
 				4125596A22E6AA61000B7D3D /* Info.plist */,
 				4125596B22E6AA61000B7D3D /* main.m */,
+				4125598E22E6AAEF000B7D3D /* Redirect.h */,
+				4125598F22E6AAEF000B7D3D /* Redirect.m */,
 			);
 			path = Redirect;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				4125596122E6AA60000B7D3D /* ViewController.m in Sources */,
 				4125596C22E6AA61000B7D3D /* main.m in Sources */,
 				4125595E22E6AA60000B7D3D /* AppDelegate.m in Sources */,
+				4125599022E6AAEF000B7D3D /* Redirect.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
