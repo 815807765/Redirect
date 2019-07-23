@@ -16,6 +16,7 @@
 		4125597622E6AA61000B7D3D /* RedirectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125597522E6AA61000B7D3D /* RedirectTests.m */; };
 		4125598122E6AA61000B7D3D /* RedirectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125598022E6AA61000B7D3D /* RedirectUITests.m */; };
 		4125599022E6AAEF000B7D3D /* Redirect.m in Sources */ = {isa = PBXBuildFile; fileRef = 4125598F22E6AAEF000B7D3D /* Redirect.m */; };
+		41255A0F22E6CDFA000B7D3D /* NSString+Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 41255A0E22E6CDFA000B7D3D /* NSString+Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		4125598222E6AA62000B7D3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4125598E22E6AAEF000B7D3D /* Redirect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Redirect.h; sourceTree = "<group>"; };
 		4125598F22E6AAEF000B7D3D /* Redirect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Redirect.m; sourceTree = "<group>"; };
+		41255A0D22E6CDFA000B7D3D /* NSString+Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Test.h"; sourceTree = "<group>"; };
+		41255A0E22E6CDFA000B7D3D /* NSString+Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Test.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				4125596B22E6AA61000B7D3D /* main.m */,
 				4125598E22E6AAEF000B7D3D /* Redirect.h */,
 				4125598F22E6AAEF000B7D3D /* Redirect.m */,
+				41255A0D22E6CDFA000B7D3D /* NSString+Test.h */,
+				41255A0E22E6CDFA000B7D3D /* NSString+Test.m */,
 			);
 			path = Redirect;
 			sourceTree = "<group>";
@@ -269,6 +274,7 @@
 			files = (
 				4125596122E6AA60000B7D3D /* ViewController.m in Sources */,
 				4125596C22E6AA61000B7D3D /* main.m in Sources */,
+				41255A0F22E6CDFA000B7D3D /* NSString+Test.m in Sources */,
 				4125595E22E6AA60000B7D3D /* AppDelegate.m in Sources */,
 				4125599022E6AAEF000B7D3D /* Redirect.m in Sources */,
 			);
